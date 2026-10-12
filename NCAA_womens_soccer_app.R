@@ -14,9 +14,10 @@ goal <- read.csv("individual_goalkeepers_cond_2025.csv")
 
 ui <- fluidPage(
   theme = bs_theme(
-    version = 5,
-    bootswatch = "litera",
-    primary = "#E89EB8"
+  version = 5,
+  bootswatch = "darkly",
+  primary = "#7FAF9B"
+)
   ),
   
   titlePanel("Women's Soccer Transfer Portal Analysis"),
