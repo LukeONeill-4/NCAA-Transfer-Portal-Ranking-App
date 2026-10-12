@@ -17,7 +17,7 @@ ui <- fluidPage(
   version = 5,
   bootswatch = "darkly",
   primary = "#7FAF9B"
-)
+
   ),
   
   titlePanel("Women's Soccer Transfer Portal Analysis"),
